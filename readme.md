@@ -1,4 +1,4 @@
-# This is a tutorial of hackintosh （Use Opencore)
+# This is a tutorial of hackintosh （Use Opencore)
 ##  Before writing : <font color=yellow>"It's not a perfect journey.  Use and cherish."</font> ##
 
 ### Prerequisites
